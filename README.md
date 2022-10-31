@@ -1,7 +1,7 @@
 # CS-361 Microservice Implementation README
 A. To request data from the microservice, write "popup" into a txt file called receive.txt while having the microservice running in the background.
 
-Example Call: 
+Example Call while microservice is running: 
 ```
   with open('receive.txt', 'w') as f:
     f.write("popup")
