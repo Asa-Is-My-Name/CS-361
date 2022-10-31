@@ -3,4 +3,4 @@ A. To request data from the microservice, write "popup" into a txt file called r
 
 B. To recieve data from the microservice, have a txt file called send.txt that the microservice will send data through. Once it receive a request, it will write the appropriate data into send.txt while clearing the data it recieved from recieve.txt
 
-[UML Diagram for Microservice](main/MicroserviceUML.png)
+[UML Diagram for Microservice](CS361/MicroserviceUML.png)
